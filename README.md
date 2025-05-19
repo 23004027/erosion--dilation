@@ -71,6 +71,7 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 <br>
+
 ![Screenshot 2025-05-19 184913](https://github.com/user-attachments/assets/aa444865-3760-43e8-b8c7-89de17dfcb38)
 
 
@@ -91,6 +92,7 @@ plt.imshow(img_erode,cmap='gray')
 <br>
 <br>
 <br>
+
 ![Screenshot 2025-05-19 184944](https://github.com/user-attachments/assets/01864c8c-9382-42e1-b3fa-f9a9888f8344)
 
 <br>
